@@ -5,8 +5,8 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "864d3ad44e5a1a172d1d3d8a79c45ce5",
-"/": "864d3ad44e5a1a172d1d3d8a79c45ce5",
+"index.html": "182471cc3d0d22a3008d567f5862897a",
+"/": "182471cc3d0d22a3008d567f5862897a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/images/news.png": "d1b00a523b9632ef42115837f097d48b",
 "assets/images/beauty.png": "6858171c439bae5210b0bdf06b9aa3ec",
@@ -15,8 +15,11 @@ const RESOURCES = {
 "assets/images/books.png": "c33e85794f87999f42815a011bbaffdc",
 "assets/images/cart.png": "5acd2b61bdddd4064a96f006db2105d7",
 "assets/images/basket.png": "7786cc7eacaa8beafda747ed85ee01e7",
+"assets/images/ofertas.png": "c910e32992987204c84dd57b4231140a",
+"assets/images/ofertas-export.png": "38d58d1d6d823c814b3d7e3142bc4c70",
 "assets/images/ball.png": "d3d670bb04d460c4c25039ebe999d8e3",
 "assets/images/hanger.png": "6577fc6154b133ffb9b8fbc9f571b5c5",
+"assets/images/rainbow-gradient.png": "f1a91929effa73a540a09f44c28087d6",
 "assets/FontManifest.json": "c632621213f63a6e0fc9af3ec8b67758",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "assets/fonts/FiraMono-Regular.ttf": "9d9ef03aa28bc0654c49fa9ce454ccda",
@@ -25,11 +28,11 @@ const RESOURCES = {
 "assets/fonts/Pacifico-Regular.ttf": "9b94499ccea3bd82b24cb210733c4b5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/SourceSansPro-Regular.ttf": "c1678b46f7dd3f50ceac94ed4e0ad01a",
-"assets/AssetManifest.json": "97f060fbca864586d5cf419f527550ae",
+"assets/AssetManifest.json": "f234886d0ab38e20379bb53dbbb4844c",
 "assets/NOTICES": "e2254203461d6ac08e3d3ae837ef17f9",
 "version.json": "dc87bda2c1541d4f6f302404f564f736",
 "manifest.json": "4d62ef1c5a4506a032e4fc82f5bcd3b3",
-"main.dart.js": "4e3a5b241c269f4abc4ff02b24ddb0c5"
+"main.dart.js": "aa1777cd55f57bcf53c7d5bfe474b420"
 };
 
 // The application shell files that are downloaded before a service worker can
