@@ -1,6 +1,6 @@
 {
-    "name": "tj_carousel_slider",
-    "short_name": "tj_carousel_slider",
+    "name": "experimental_basics",
+    "short_name": "experimental_basics",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
